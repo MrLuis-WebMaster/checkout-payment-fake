@@ -25,7 +25,7 @@ List any software or dependencies that need to be installed before running the a
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/MrLuis-WebMaster/checkout-payment-fake.git.git
    ```
 
 2. Navigate to the project directory:
@@ -101,8 +101,8 @@ All files                   |   81.53 |    38.51 |   56.09 |   81.81 |
 
 ## Repository
 
-Link to [GitHub Repository](https://github.com/your-username/your-repo).
+Link to [GitHub Repository](https://github.com/MrLuis-WebMaster/checkout-payment-fake.git).
 
 ## Deployed Application
 
-Link to deployed [Link App](https://github.com/your-username/your-repo).
+Link to deployed [Link App](https://github.com/MrLuis-WebMaster/checkout-payment-fake.git).
