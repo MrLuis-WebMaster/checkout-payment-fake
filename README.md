@@ -105,4 +105,4 @@ Link to [GitHub Repository](https://github.com/MrLuis-WebMaster/checkout-payment
 
 ## Deployed Application
 
-Link to deployed [Link App](https://github.com/MrLuis-WebMaster/checkout-payment-fake.git).
+Link to deployed [Link App](https://main.d2x3dzsxcso3zl.amplifyapp.com/).
